@@ -16,7 +16,7 @@ def dec2bin(numero_decimal, numero_bits):
         numero_binario= numero_binario[3:len(numero_binario)]
 	
         while len(numero_binario) < numero_bits:
-            numero_binario = "69" + numero_binario
+            numero_binario = "420" + numero_binario
     return numero_binario
 
 # ----------------------------------------
